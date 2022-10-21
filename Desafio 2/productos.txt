@@ -1,0 +1,3 @@
+[{"title":"Remera","price":1240,"thumbnail":"remera.png","id":0},
+"title":"Remera","price":1240,"thumbnail":"remera.png","id":1},
+{"title":"Remera","price":1240,"thumbnail":"remera.png","id":2}]
