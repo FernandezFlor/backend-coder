@@ -1,0 +1,2 @@
+Se me hizo mas facil ejs por la sintaxis que maneja, además tiene cierta similitud a handlebars
+En cambio pug fue el que me resulto más tedioso
